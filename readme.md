@@ -10,8 +10,20 @@ This repo contains the code and datasets used in my YouTube channel.
 [**📂 Access Excel Files (OneDrive)**](https://1drv.ms/f/c/581dc08bd5488e5a/IgB61Ha6QfrYRaY1Euyjf5sqAdAcWOzWrh__BG4cvu6LQBE?e=lRLeMI) &nbsp; | &nbsp; [**☕ Buy me a Coffee**](https://ko-fi.com/cyrusemoreno)
 
 ---
+### 📬 Contact & Support
+If my templates saved you time, consider supporting the channel!
 
-## 🔄 Recent Updates
+[**☕ Support my Work on Ko-fi**](https://ko-fi.com/cyrusemoreno)
+
+---
+
+## 🔄 Page Updates
+
+### **March 27, 2026** | LLM Project Update
+Added new **Code Generator for SPP** to the public OneDrive folder.
+
+* **Struct Prompt Protocol :** A standardized, language-agnostic template designed to optimize interactions between human developers and Large Language Models (LLMs).
+
 
 ### **January 30, 2026** | Excel Projects Update
 Added new **Excel Projects** to the public OneDrive folder.
@@ -22,9 +34,6 @@ Added new **Excel Projects** to the public OneDrive folder.
 
 ---
 
-### 📬 Contact & Support
-If my templates saved you time, consider supporting the channel!
 
-[**☕ Support my Work on Ko-fi**](https://ko-fi.com/cyrusemoreno)
 
 
